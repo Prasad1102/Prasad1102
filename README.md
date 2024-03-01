@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Shelke</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad1102" alt="prasad1102" /></a> </p>
-
 - 🌱 I’m currently learning **ROR tect stack, AWS**
 
 - 📫 How to reach me **shelkeprasad1102@gmail.com**
