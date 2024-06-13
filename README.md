@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Prasad Shelke</h1>
 <h3 align="left">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **ROR tect stack, AWS**
-
 - 📫 How to reach me **shelkeprasad1102@gmail.com**
+
+- <a href="https://prasaddshelke.netlify.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
