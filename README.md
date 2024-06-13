@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shelkeprasad1102@gmail.com**
 
-- <a href="https://prasaddshelke.netlify.app/">My Portfolio</a>
+- <a href="https://prasaddshelke.netlify.app/">Visit My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
