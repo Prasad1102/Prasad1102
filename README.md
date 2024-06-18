@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shelkeprasad1102@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://prasaddshelke.netlify.app/resume)
+- 📄 Know about my experiences [My Resume](https://prasadshelke.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
