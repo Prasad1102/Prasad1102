@@ -16,7 +16,6 @@
 <a href="https://instagram.com/prasad_shelke_1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_shelke_1102" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shelkeprasad1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shelkeprasad1102" height="30" width="40" /></a>
 </p>
-<br />
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front End:</h4>
 <p align="left"> 
