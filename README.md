@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://prasaddshelke.netlify.app/)
 
-
 - 📫 How to reach me **shelkeprasad1102@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://prasadshelke.tiiny.site/)
