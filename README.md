@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [My Resume](https://prasadshelke.tiiny.site/)
 
-- [GITLAB](https://prasadshelke.tiiny.site/)
+- [GITLAB](https://gitlab.com/Prasad2004)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
